@@ -1,0 +1,8 @@
+开发环境：   Qt Creator 3.4.2（opensource）
+	     Based on Qt 5.5.0（MSVC2013，32bit）	    	
+开发语言：   C++
+数据库类型： SQL SERVER 2012
+数据库要求： 服务器类型：数据库引擎
+	     服务器名称：SLIY	
+	     数据库名称：AC_Login
+             身份验证： Windows身份验证

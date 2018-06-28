@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/Cancel.png</file>
+        <file>pic/check_in.png</file>
+        <file>pic/check_out.png</file>
+        <file>pic/cold.png</file>
+        <file>pic/cold_off.png</file>
+        <file>pic/high_wind.png</file>
+        <file>pic/hot.png</file>
+        <file>pic/hot_off.png</file>
+        <file>pic/Hotel.png</file>
+        <file>pic/Login.png</file>
+        <file>pic/low_wind.png</file>
+        <file>pic/mid_wind.png</file>
+        <file>pic/ok.png</file>
+        <file>pic/Ret.png</file>
+        <file>pic/wait.png</file>
+        <file>pic/work.png</file>
+        <file>pic/ac_window.png</file>
+        <file>pic/Central_ac.png</file>
+    </qresource>
+</RCC>

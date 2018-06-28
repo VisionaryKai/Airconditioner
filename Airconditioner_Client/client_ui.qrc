@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/background.jpg</file>
+        <file>source/switch_off.jpg</file>
+        <file>source/switch_on.jpg</file>
+        <file>source/high_wind.png</file>
+        <file>source/low_wind.png</file>
+        <file>source/mid_wind.png</file>
+        <file>source/cool.png</file>
+        <file>source/heat.png</file>
+        <file>source/work.png</file>
+        <file>source/wait.png</file>
+    </qresource>
+</RCC>
